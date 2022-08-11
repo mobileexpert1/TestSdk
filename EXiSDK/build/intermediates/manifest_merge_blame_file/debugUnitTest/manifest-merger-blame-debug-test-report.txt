@@ -1,0 +1,61 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.exisdk.test" >
+4
+5    <uses-sdk
+5-->/Users/mobile/Desktop/EXiSDK_container/EXiSDK/build/intermediates/tmp/manifest/test/debug/tempFile1ProcessTestManifest12483079528125161808.xml:5:5-74
+6        android:minSdkVersion="21"
+6-->/Users/mobile/Desktop/EXiSDK_container/EXiSDK/build/intermediates/tmp/manifest/test/debug/tempFile1ProcessTestManifest12483079528125161808.xml:5:15-41
+7        android:targetSdkVersion="32" />
+7-->/Users/mobile/Desktop/EXiSDK_container/EXiSDK/build/intermediates/tmp/manifest/test/debug/tempFile1ProcessTestManifest12483079528125161808.xml:5:42-71
+8
+9    <instrumentation
+9-->/Users/mobile/Desktop/EXiSDK_container/EXiSDK/build/intermediates/tmp/manifest/test/debug/tempFile1ProcessTestManifest12483079528125161808.xml:11:5-13:65
+10        android:name="android.test.InstrumentationTestRunner"
+10-->/Users/mobile/Desktop/EXiSDK_container/EXiSDK/build/intermediates/tmp/manifest/test/debug/tempFile1ProcessTestManifest12483079528125161808.xml:11:22-75
+11        android:label="Tests for com.exisdk.test"
+11-->/Users/mobile/Desktop/EXiSDK_container/EXiSDK/build/intermediates/tmp/manifest/test/debug/tempFile1ProcessTestManifest12483079528125161808.xml:13:22-63
+12        android:targetPackage="com.exisdk.test" />
+12-->/Users/mobile/Desktop/EXiSDK_container/EXiSDK/build/intermediates/tmp/manifest/test/debug/tempFile1ProcessTestManifest12483079528125161808.xml:12:22-61
+13
+14    <uses-permission android:name="android.permission.INTERNET" />
+14-->[:EXiSDK] /Users/mobile/Desktop/EXiSDK_container/EXiSDK/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-67
+14-->[:EXiSDK] /Users/mobile/Desktop/EXiSDK_container/EXiSDK/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:22-64
+15    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+15-->[:EXiSDK] /Users/mobile/Desktop/EXiSDK_container/EXiSDK/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:5-79
+15-->[:EXiSDK] /Users/mobile/Desktop/EXiSDK_container/EXiSDK/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:22-76
+16
+17    <application
+17-->/Users/mobile/Desktop/EXiSDK_container/EXiSDK/build/intermediates/tmp/manifest/test/debug/tempFile1ProcessTestManifest12483079528125161808.xml:7:5-9:19
+18        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+18-->[androidx.core:core:1.8.0] /Users/mobile/.gradle/caches/transforms-3/40644dedf4ed50393ee0ca06c6975190/transformed/core-1.8.0/AndroidManifest.xml:24:18-86
+19        android:debuggable="true" >
+19-->/Users/mobile/Desktop/EXiSDK_container/EXiSDK/build/intermediates/tmp/manifest/test/debug/tempFile1ProcessTestManifest12483079528125161808.xml:7:18-43
+20        <uses-library android:name="android.test.runner" />
+20-->/Users/mobile/Desktop/EXiSDK_container/EXiSDK/build/intermediates/tmp/manifest/test/debug/tempFile1ProcessTestManifest12483079528125161808.xml:8:9-60
+20-->/Users/mobile/Desktop/EXiSDK_container/EXiSDK/build/intermediates/tmp/manifest/test/debug/tempFile1ProcessTestManifest12483079528125161808.xml:8:23-57
+21
+22        <provider
+22-->[androidx.emoji2:emoji2:1.0.0] /Users/mobile/.gradle/caches/transforms-3/b67b9bbb0e792c2c1fbcbba4982aef65/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:26:9-34:20
+23            android:name="androidx.startup.InitializationProvider"
+23-->[androidx.emoji2:emoji2:1.0.0] /Users/mobile/.gradle/caches/transforms-3/b67b9bbb0e792c2c1fbcbba4982aef65/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:27:13-67
+24            android:authorities="com.exisdk.test.androidx-startup"
+24-->[androidx.emoji2:emoji2:1.0.0] /Users/mobile/.gradle/caches/transforms-3/b67b9bbb0e792c2c1fbcbba4982aef65/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:28:13-68
+25            android:exported="false" >
+25-->[androidx.emoji2:emoji2:1.0.0] /Users/mobile/.gradle/caches/transforms-3/b67b9bbb0e792c2c1fbcbba4982aef65/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:29:13-37
+26            <meta-data
+26-->[androidx.emoji2:emoji2:1.0.0] /Users/mobile/.gradle/caches/transforms-3/b67b9bbb0e792c2c1fbcbba4982aef65/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:31:13-33:52
+27                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+27-->[androidx.emoji2:emoji2:1.0.0] /Users/mobile/.gradle/caches/transforms-3/b67b9bbb0e792c2c1fbcbba4982aef65/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:32:17-75
+28                android:value="androidx.startup" />
+28-->[androidx.emoji2:emoji2:1.0.0] /Users/mobile/.gradle/caches/transforms-3/b67b9bbb0e792c2c1fbcbba4982aef65/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:33:17-49
+29            <meta-data
+29-->[androidx.lifecycle:lifecycle-process:2.4.0] /Users/mobile/.gradle/caches/transforms-3/c9e75c185b821deb506bf93319ec6c92/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:31:13-33:52
+30                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+30-->[androidx.lifecycle:lifecycle-process:2.4.0] /Users/mobile/.gradle/caches/transforms-3/c9e75c185b821deb506bf93319ec6c92/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:32:17-78
+31                android:value="androidx.startup" />
+31-->[androidx.lifecycle:lifecycle-process:2.4.0] /Users/mobile/.gradle/caches/transforms-3/c9e75c185b821deb506bf93319ec6c92/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:33:17-49
+32        </provider>
+33    </application>
+34
+35</manifest>
