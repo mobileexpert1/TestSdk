@@ -2,8 +2,11 @@ package com.exisdk.utils
 
 class Constants {
     companion object {
-        val UNIQUE_KEY = "1234"
-        val API_BASE_URL="https://quotable.io/"
-
+        val EXi_UNIQUE_KEY = "1234"
+        val API_BASE_URL="http://20d3-112-196-23-166.ngrok.io/sdkmobile/v1/"
+        val SDK_CONNECTION_SUCCESS_ALERT="Connection successful"
+        val SDK_CONNECTION_FAILURE_ALERT="Connection Failed"
+        val X_API_KEY="MIIBCgKCAQEAqo2IWUYrdw3hsyZ5E3xuU"
+        val PRIVATE_KEY="MIIEowIBAAKCAQEAq9YOLJbi7qfIDib5dpRhnoatcH5h07RHHf5WeFYdwey3Xjrl5ZiJw8NfuVeyT1YKBoQp8+CGXSWvIhbOCnNrBfZNPFv6hD/w5mzZJxqP1yDYj9+RSxR08/YKj8Ep4kNPe0s9k76bO5UBKMeBxZl9E2Sg21ioTwCMg8n/76BLLe5nkZMjqpkC+RXwp1Gmhy7dQyvIowMMKUdSzzVJL0E2DhaRgxHDX/1yq4ByVTBNYegTxvxXWzbDlXMAGCKdU576Wfd28EQyVuUETXYbIyclJMZJKp/E8wnjtTyq6t4VRpx0W22EMO9g6sHrtz7KFtOM9tMNkyR+KijP17yL2gdrawIDAQABAoIBACBQglzfSTDRS51htfMXR15c/FvV4IbD9cXNsSwzIah44Cjv0ZECRRIT+TntJIKn7v23t/39YLc+oXc7K6cqeltmLLMnpu5c6ewjVxjz9U3jBubTh8rDP5UrVWQgUsSSnO1WQm+43g9v34ZwMlbbHPrbJybovsoQk9wqzh8dmVW7GyOwMTxsFykbwqms7rZ1y7okumk8U+skXhbqPjldsWioukbZ3yrLqvk2qMtHaVxsAOXOGAImhZGjQAWCMdzpsonhpTUxMcw+vgFb5TKbxedAxyattgdqFlDxGyl3qPdL3M+BR78YapeT0hKdXFhVpUbDTLcZ2kq86KJAoeleKTECgYEA30qd+kfUaO4D3+6YoMOc0j3fZAWlU6HCl9blO5G7ahRSwtm3tAo9OwNNWcrZcpKAiA25NuFXEzUuo1Pj5udfZAtoqWojpUZX7kocLtpzzXRJe64argIo8/dhJQMbUTopIt1EBq5R4AxPwn6dslzoMYiUVIeUm5A22vLf5NHRXnECgYEAxQHf7JsKvEVQ3NsrpzFj0oCZialjTiCWzqfWJD5mkkEc01AP1QPfW9/1UiQzbQEfyz9P58EJaiTSh893sR0Lfi3RYmsa9AqRbAwOgABagyydcoHvCpmYBfTPe9cFxsfwVIc6HNzFaYWQ4Q/Yddalj+l97m4p4L2LJmust/CvjZsCgYBYq3/qiKWv+Xyua0hO5v8aehmA1cEeYektdNfY/PkomeN3nw+VPk+sZJZN5wDMv6Ks5I49XeS/KupXT5P7+LtntiQcyppXIoT+io2AiZ1c5CXeKHhNy2vJ3d3E3eP2MJtvTeCaqpS23Qy7Vp522vAV43/LxX9c+zrdXX9NlYiH8QKBgQCLYy0s+fGZja2N5eA39kD7chOwC9IAOBybcLKZiDEIb9tWQ4JAI/JHzeiDyqs8B5yYMF53yePAXvc6MfcssDEugHpyGPfEDSog+VLVC+r+fnWTzAz2QgAGztRyeYtTvqjzFY5vV2CxrVf5dT2g+lK/xONd7EHjChjHAU3+AuQi2wKBgBlknKxt6SxoVOwXlRtN7EFEHpULc3wnBdcaLK8H85MGccM4hU2n9wTCBtd1mgu+/BLNHUUttLR0KtH/KqVYHxgeMEvGlJe4nHct68SM4xZea/RBfd2peDirRkifovCRSLsltkpzXts//YXOG3Vd6XCpQJ2VUsYhSygsFtxIBeu4"
     }
 }

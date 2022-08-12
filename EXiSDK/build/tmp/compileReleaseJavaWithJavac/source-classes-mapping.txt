@@ -1,2 +1,0 @@
-com/exisdk/BuildConfig.java
- com.exisdk.BuildConfig

@@ -1,3 +1,5 @@
 package com.exisdk.localstorage
 
-class Preferences
+class Preferences{
+
+}

@@ -52,5 +52,4 @@ dependencies {
     implementation 'com.squareup.retrofit2:converter-gson:2.9.0'
     implementation('io.jsonwebtoken:jjwt:0.2')
     implementation group: 'io.jsonwebtoken', name: 'jjwt', version: '0.9.1'
-    implementation 'com.github.kulwinderbluebik:Test-SDK:1.0.1'
 }
