@@ -5,7 +5,7 @@ import org.junit.Before
 import org.junit.Test
 
 class ShowMessageTest : TestCase() {
-@Before
+    @Before
     public override fun setUp() {
         super.setUp()
     }
@@ -15,6 +15,6 @@ class ShowMessageTest : TestCase() {
     @Test
     fun testShowMessage() {
         val expected = 1
-        assertEquals(expected,2)
+        assertEquals(expected, 2)
     }
 }

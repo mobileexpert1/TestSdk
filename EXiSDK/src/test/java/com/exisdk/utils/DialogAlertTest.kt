@@ -17,6 +17,6 @@ class DialogAlertTest : TestCase() {
     }
     @Test
     fun testShowAlert() {
-        DialogAlert.showAlert(mockContext,true)
+        DialogAlert.showAlert(mockContext, true)
     }
 }

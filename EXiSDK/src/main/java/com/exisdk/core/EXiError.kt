@@ -1,5 +1,3 @@
 package com.exisdk.core
 
-class EXiError{
-
-}
+class EXiError

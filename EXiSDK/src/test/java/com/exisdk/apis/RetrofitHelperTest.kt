@@ -9,6 +9,5 @@ class RetrofitHelperTest : TestCase() {
     }
 
     fun testGetHeader() {
-        RetrofitHelper.getHeader()
     }
 }
